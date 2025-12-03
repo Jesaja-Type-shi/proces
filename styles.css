@@ -1,3 +1,9 @@
 body {
     background-color: black;
 }
+.D1 {
+    background-color: white;
+    width: 20px;
+    height: 40px;
+    border-radius: 50%;
+}
